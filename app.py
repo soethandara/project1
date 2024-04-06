@@ -83,3 +83,4 @@ if __name__ == "__main__":
     print (correct_image_path)
     #changes made by developer1
     check_image_size_and_similarity(correct_image_path, student_images_folder)
+    #changes made by developer2
